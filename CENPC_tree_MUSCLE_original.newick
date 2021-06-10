@@ -1,0 +1,22 @@
+(
+P35201 RecName: Full=Inner kinetochore subunit MIF2 {ECO:0000305}; AltName: Full=CENP-C homolog {ECO:0000303|PubMed:22561346}; AltName: Full=Constitutive centromere-associated network protein MIF2 {ECO:0000305}; AltName: Full=Mitotic fidelity of chromosome transmission protein 2 {ECO:0000303|PubMed:8408221};:1.29946
+,
+(
+O57392 SubName: Full=CENP-C {ECO:0000313|EMBL:BAA24109.1}; SubName: Full=Centromere protein CENP-C {ECO:0000313|EMBL:BAB39106.1};:1.21558
+,
+(
+A0A3L7IK10 SubName: Full=CENPC {ECO:0000313|EMBL:RLQ78310.1};:1.09427
+,
+(
+Q66LH7 SubName: Full=CENP-C {ECO:0000313|EMBL:AAU04621.1};:1.05247
+,
+(
+Q03188 RecName: Full=Centromere protein C; Short=CENP-C; AltName: Full=Centromere autoantigen C; AltName: Full=Centromere protein C 1; Short=CENP-C 1; AltName: Full=Interphase centromere complex protein 7;:0.426972
+,
+A0A5F8ALS5 SubName: Full=Centromere protein C {ECO:0000313|Ensembl:ENSMMUP00000078787};:0.426972
+):0.625497
+):0.0418003
+):0.121306
+):0.0838865
+)
+;

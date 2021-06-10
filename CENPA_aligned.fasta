@@ -1,0 +1,36 @@
+>P36012 RecName: Full=Histone H3-like centromeric protein CSE4; AltName: Full=CENP-A homolog; AltName: Full=Chromosome segregation protein 4;
+MSSKQQWVSSAIQSDSSGRSLSNVNRLAGDQQSINDRALSLLQRTRA-----------TK
+NLFPRREERRRYESSKSDLDIETDYEDQAGNLEIETENEEEAEMETEVPAPVR--THSYA
+LDRYVRQKRREKQRKQSLKRVEKKYTPSELALYEIRKYQRSTDLLISKIPFARLVKEVTD
+EFTTKDQDLRWQSMAIMALQEASEAYLVGLLEHTNLLALHAKRITIMKKDMQLARRIRG-
+--QFI
+>Q6XXM1 RecName: Full=Histone H3-like centromeric protein A; AltName: Full=Centromere protein A; Short=CENP-A; Short=GgCENP-A;
+-----------------------------------------MPRPKP-------------
+-----RSPRRRGRPPPA----------------------------APPPPPARPRARRYR
+PGQRA--------------------------LREIRRYQSSTALLLRRQPFARVVREICL
+LF-TRGVDYRWQAMALLALQEAAEAFLVHLLEDAYLCSLHARRVTLYPKDLQLARRLRGL
+QGEGF
+>P49450 RecName: Full=Histone H3-like centromeric protein A; AltName: Full=Centromere autoantigen A; AltName: Full=Centromere protein A; Short=CENP-A;
+----------------------------------------MGPRRRS-------------
+--RKPEAPRRR--SPSP----------------------------TPTPGPSR---RGPS
+LGASSHQHSRRRQ----------------GWLKEIRKLQKSTHLLIRKLPFSRLAREICV
+KF-TRGVDFNWQAQALLALQEAAEAFLVHLFEDAYLLTLHAGRVTLFPKDVQLARRIRGL
+EEGLG
+>F7AJX7 SubName: Full=Centromere protein A {ECO:0000313|Ensembl:ENSMMUP00000020971};
+----------------------------------------MGPRRRS-------------
+--RKPEAPRRR--SPS------------------------------PTPGPSR---RGPS
+LGPSSRQHGRRRQ----------------AWLKEIRKLQKSTHLLIRKYPFSRLAREICV
+KF-TRGVDFNWQAQALLALQEAAEAFLVHLFEDAYLLALHAGRVTLFPKDVQLARRIRGI
+EAGLG
+>B2RZ23 SubName: Full=Centromere protein A {ECO:0000313|EMBL:AAI66997.1, ECO:0000313|Ensembl:ENSRNOP00000012512}; SubName: Full=Similar to centromere protein A (Predicted), isoform CRA_b {ECO:0000313|EMBL:EDM02982.1};
+---------------------------------MVGRRKPGTPRRRPSSPAPGPSQPATD
+SRRQSRTPTRR--PSS------------------------------PAPGPSR---RSSG
+VGPQA-LHRRRRF----------------LWLKEIKNLQKSTDLLFRKKPFGLVVREICG
+KF-SRGVDLYWQAQALLALQEAAEAFLVHLFEDAYLLSLHAGRVTLFPKDVQLARRIRGI
+EGGLG
+>Q8R565 RecName: Full=Histone H3-like centromeric protein A; AltName: Full=Centromere protein A; Short=CENP-A;
+----------------------------------------MGPRRKP-------------
+-----RTPRRR--PSS------------------------------PVPGPSR---RSSR
+PG------KRRKF----------------LWLKEIKKLQRSTDLLLRKLPFSRVVREICG
+KF-TRGVDLCWQAQALLALQEAAEAFLVHLFEDAYLLTLHAGRVTIFPKDIQLTRRIRGI
+EGGLG
